@@ -50,10 +50,11 @@ It shows the distance of a random variable from its mean. It is calcualted as
 
 # Program :
 
-```
-Developed By : HARINI S
-Register number: 212224240049
-```
+
+## Developed By : HARINI S
+## Register number: 212224240049
+## Department: AIML
+
 
 
 ```
