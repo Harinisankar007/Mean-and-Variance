@@ -1,4 +1,5 @@
 #  Mean and variance of a discrete  distribution
+#  Date: 29-04-2025
 
 
 # Aim : 
